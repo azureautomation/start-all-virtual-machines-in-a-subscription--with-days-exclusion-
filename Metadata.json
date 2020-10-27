@@ -1,7 +1,7 @@
 {
     "Author": "Michael GEYER",
     "ContentSize": 3490,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/start-all-virtual-machines-in-a-subscription-(with-days-exclusion)/master/StartAzureVMAll.py",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/start-all-virtual-machines-in-a-subscription--with-days-exclusion-/master/StartAzureVMAll.py",
     "DownloadCount": 1055,
     "Id": "Starts-All-virutal-cdf9dbed",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "Start Azure All RM virtual machines in a subscription (with days exclusion). An Azure Automation RunAs account is required for this runbook.",
     "Title": "Start All virtual machines in a subscription (with days exclusion)",
     "UpdatedDate": "2019-4-11T00:00:00",
-    "Url": "https://github.com/azureautomation/start-all-virtual-machines-in-a-subscription-(with-days-exclusion)",
+    "Url": "https://github.com/azureautomation/start-all-virtual-machines-in-a-subscription--with-days-exclusion-",
     "UserTags": "Azure Automation, Azure Virtual Machines"
 }
